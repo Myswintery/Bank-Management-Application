@@ -57,9 +57,9 @@ The application connects to a **MySQL database** for data storage and management
 ---
 
 ## 🚀Future Enhancements
--🔔 Email/SMS notifications for transactions.
--📊 Spending and savings analytics dashboard.
--🧠 Machine learning-based insights and recommendations.
+- 🔔 Email/SMS notifications for transactions.
+- 📊 Spending and savings analytics dashboard.
+- 🧠 Machine learning-based insights and recommendations.
 
 ## 💬 Author  
 **MysWintery**  
