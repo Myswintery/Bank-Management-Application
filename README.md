@@ -62,6 +62,6 @@ The application connects to a **MySQL database** for data storage and management
 - 🧠 Machine learning-based insights and recommendations.
 
 ## 💬 Author  
-**MysWintery**  
+**Faizah**  
 🎓 BSc. Information Technology | 💡 Data Scientist Enthusiast  
-📧 [Contact Here](mailto:myswgamex@gmail.com)
+📧 [Contact Here](mailto:faizah.mshoeb@gmail.com)
